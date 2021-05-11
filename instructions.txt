@@ -4,4 +4,10 @@
 * squeeze lemon
 * add salt
 * and mix well using a blender
+<<<<<<< HEAD
 * DONT enjoy
+=======
+* enjoy
+
+this is a test
+>>>>>>> test_rebase
